@@ -1,0 +1,8 @@
+.ullist {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.bg {
+  text-align: center;
+}
